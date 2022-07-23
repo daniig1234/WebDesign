@@ -1,4 +1,5 @@
-.map-container{
+@import '~mdb-ui-kit/css/mdb.min.css';
+    .map-container{
     overflow:hidden;
     padding-bottom:56.25%;
     position:relative;
